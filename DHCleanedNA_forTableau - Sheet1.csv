@@ -1,0 +1,150 @@
+idx,Group,Marker Icon,Marker Color,Icon Color,Department,Accession Number,Accession Year,Title,Type,Credit Type,Date Made,Maker Culture,Location,Native Tribe?,Latitudes,Longitudes
+1,Amherst,fa-university,#4A2A72,white,Museum,AC 1946.54,1946,"Pow A Sheek, A Fox Chief",Print,Gift,1838,Sac and Fox,Oklahoma,Yes,35.0078,-97.0929
+2,Amherst,fa-university,#4A2A72,white,Museum,AC 1946.55,1946,"Ne-O-Mon-Ne, An Ioway Chief",Print,Gift,1838,,,,,
+3,Amherst,fa-university,#4A2A72,white,Museum,AC 1947.99,1947,"After the Battle, Making off with the Scalp Lock",Drawing,Purchase,1837,,,,,
+4,Amherst,fa-university,#4A2A72,white,Museum,AC 1951.1296,1951,Processional Taos,Print,Gift,,,,,,
+5,Amherst,fa-university,#4A2A72,white,Museum,AC 1955.548,1955,Ivory Bracelet,Adornment,Gift,,Inuit,"Subarctic and arctic region of north america (Alaska, Canada, Greenland)",Yes,63.5888,-154.4931
+6,Amherst,fa-university,#4A2A72,white,Museum,AC 1961.108,1961,Storage jar,Ceramic,Gift,1900,Kewa,"Kewa Pueblo, New Mexico",Yes,35.51448,-106.363
+7,Amherst,fa-university,#4A2A72,white,Museum,AC 1964.32.a,1964,"Medal: 3rd Issue of the Society of Medalists: Hopi Snake Dance, Prayer for Rain",Medal,Bequest,1931,Hopi,Northeastern Arizona,Yes,35.872802,-110.609718
+8,Amherst,fa-university,#4A2A72,white,Museum,AC 1964.32.b,1964,"Medal: 3rd Issue of the Society of Medalists: Hopi Snake Dance, Prayer for Rain",Medal,Bequest,1931,Hopi,Northeastern Arizona,Yes,35.872802,-110.609718
+9,Amherst,fa-university,#4A2A72,white,Museum,AC 1967.99,1967,Head of an Orinoco Indian,Sculpture,Gift,1931,Warao,"Orinoco Delta, Venezuela",Yes,9.366504,-61.394737
+10,Amherst,fa-university,#4A2A72,white,Museum,AC 1976.22,1976,Necklace,Adornment,Gift,1900,Chumash,"Central and Southern California, Coastal Regions (Los Angeles, San Luis Obispo, Santa Barbara, Ventura)",Yes,34.0522,-118.2437
+11,Amherst,fa-university,#4A2A72,white,Museum,AC 1980.19,1980,Navajo Fetish,Painting,Gift,,Luiseño,California,Yes,,
+12,Amherst,fa-university,#4A2A72,white,Museum,AC 1981.126,1981,Untitled,Print,Gift,1972,,,,,
+13,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.10,1991,Third Phase Chief Blanket,Textile,Gift,1930,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+14,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.11,1991,Navajo textile,Textile,Gift,1950,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+15,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.12,1991,Storm Pattern Blanket,Textile,Gift,1950,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+16,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.13,1991,Navajo textile,Textile,Gift,1930,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+17,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.14,1991,Navajo textile,Textile,Gift,1950,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+18,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.15,1991,Ganado Rug,Textile,Gift,1955,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+19,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.16,1991,Navajo textile,Textile,Gift,1950,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+20,Amherst,fa-university,#4A2A72,white,Museum,AC 1991.17,1991,Navajo textile,Textile,Gift,,Navajo,"Southwest US, Colorado, Utah, Arizona, and New Mexico",Yes,36.075321,-109.19693
+21,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.1,2009,"Rain-in-the-Face, ""Iromagaja"" (ca. 1835-1905)",Photograph,Gift,1885,,,,,
+22,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.1-15,2009,Images of the Frontier: Chiefs of the Sioux Wars and the Battle of Little Bighorn (Portfolio I)(edition 46/150),Photograph; Portfolio,Gift,1982,,,,,
+23,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.2,2009,"Gall, ""Pizi"" (ca. 1838-1894)",Photograph,Gift,1881,,,,,
+24,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.3,2009,"Low Dog, ""Xunka Kuciyedan"" (born 1846)",Photograph,Gift,1881,,,,,
+25,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.4,2009,"Sitting Bull, ""Tatanka Iyotanka"" (1834-1890)",Photograph,Gift,1885,,,,,
+26,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.6,2009,"Red Horse,. ""Xunktanka Stanwe""",Photograph,Gift,1883,,,,,
+27,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.7,2009,"Long Dog, ""Xunka Hanska""",Photograph,Gift,1883,,,,,
+28,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.8,2009,"Running Antelope, ""Tatoke Inyanke"" (ca. 1830-1892)",Photograph,Gift,1877,,,,,
+29,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.10,2009,"American Horse, ""Wasechum Tashunka"" (1840-1908)",Photograph,Gift,1897,,,,,
+30,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.11,2009,"Red Cloud, ""Mahpiya-luta"" (ca. 1822-1909)",Photograph,Gift,1897,,,,,
+31,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.1.14,2009,"Sitting Bull, ""Tatanka Iyotanka"" (1834-1890)",Photograph,Gift,1885,,,,,
+32,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.2.8,2009,"Curley, ""Ashishishe"" (ca.1859-1923)",Photograph,Gift,1877,,,,,
+33,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.3.1,2009,"Sitting Bull, ""Tatanka Iyotanka"" (1834-1890)",Photograph,Gift,1883,,,,,
+34,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.3.2,2009,Grass Dancers,Photograph,Gift,1887,,,,,
+35,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.3.6,2009,"Gall, ""Pizi"" (ca.1838-1895)",Photograph,Gift,1881,,,,,
+36,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.3.7,2009,"Wild Horse, ""Xunktanka Wohitika""",Photograph,Gift,1982,,,,,
+37,Amherst,fa-university,#4A2A72,white,Museum,AC 2009.168.3.8,2009,"Indian Police, Standing Rock Agency",Photograph,Gift,1891,,,,,
+38,Amherst,fa-university,#4A2A72,white,Museum,AC 2014.119,2014,Widow of an Indian Chief watching the Arms of her deceased Husband,Print,Gift,1789,,,,,
+39,Amherst,fa-university,#4A2A72,white,Museum,AC 2018.74,2018,Sacajawea (American Martyr Series),Drawing; Collage,Gift,2005,,,,,
+40,Amherst,fa-university,#4A2A72,white,Museum,AC 2020.04,2020,Exit,Print,Purchase,2018,Anishinaabe/Ojibwe,Great Lakes region of Canada and US,Yes,45.0522,-82.4846
+41,Amherst,fa-university,#4A2A72,white,Museum,AC 2020.05,2020,Wa?há?tognaka | Nurture from the 'Takes Care of Them' suite,Print,Purchase,2019,Lakota/Si?há??u Oyáte,north and south dakota,Yes,48.0428,-98.3362
+42,Amherst,fa-university,#4A2A72,white,Museum,AC 2020.06,2020,Nakí?iži? | Protect from the 'Takes Care of Them' suite,Print,Purchase,2019,Lakota/Si?há??u Oyáte,north and south dakota,Yes,48.0428,-98.3362
+43,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.104,2021,Untitled (Navajo families),Photograph,Gift,1940,,,,,
+44,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.105,2021,Untitled (Navajo familiy on a donkey),Photograph,Gift,1940,,,,,
+45,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.111,2021,"Untitled (Navajo men, Tuba Trading Post, Co., Tuba City, Arizona)",Photograph,Gift,1940,,,,,
+46,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.112,2021,Untitled (hornos and Pueblo houses),Photograph,Gift,1940,,,,,
+47,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.113,2021,Untitled (Pueblo houses),Photograph,Gift,1940,,,,,
+48,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.120,2021,"Untitled (Navajo family on a donkey, detail)",Photograph,Gift,1940,,,,,
+49,Amherst,fa-university,#4A2A72,white,Museum,AC 2021.121,2021,"Untitled (Navajo men, Tuba Trading Post Company, Tuba City, Arizona)",Photograph,Gift,1940,,,,,
+50,Amherst,fa-university,#4A2A72,white,Museum,AC 2022.04,2022,Waiting for Rain,Print,Purchase,2012,Confederated Salish and Kutenai Tribes,"Western Montana, Idaho, British Columbia, and Wyoming",Yes,46.872,-113.9939
+51,Amherst,fa-university,#4A2A72,white,Museum,AC 2022.05.a-d,2022,Gut-Munching Gore Hounds,Drawing,Purchase,2010,Anishinaabe/Ojibwe,Great Lakes region of Canada and US,Yes,45.0522,-82.4846
+52,Amherst,fa-university,#4A2A72,white,Museum,AC 2022.06,2022,No Wall,Photograph,Purchase,2019,Chemehuevi,"Southwastern California and Arizona border, the shores of Lake Havasu",Yes,34.4839,-114.3225
+53,Amherst,fa-university,#4A2A72,white,Museum,AC 2022.07,2022,Eufaula Girls,Photograph,Purchase,2015,Chemehuevi,"Southwastern California and Arizona border, the shores of Lake Havasu",Yes,34.4839,-114.3225
+54,Amherst,fa-university,#4A2A72,white,Museum,AC 2022.08,2022,I Got Rambling on My Mind,Painting,Purchase,2021,Onondaga/Niimiipuu,"Onondaga County, New York",Yes,43.0268,-76.1784
+55,Amherst,fa-university,#4A2A72,white,Museum,AC D.1939.3,1939,Head of an Indian Boy,Drawing,Purchase,1950,Mexico,,,23.6345,-102.5528
+56,Amherst,fa-university,#4A2A72,white,Museum,AC PR.1939.65,1939,"Pocahontas, Princess",Print,Bequest,1616,,,,,
+57,Vassar,fa-university,#951829,white,Museum,2010.13.38,2010,PINCUSHION WITH STAR ABOVE EAGLE HOLDING ARROW AND TWO AMERICAN FLAGS,Textile,Gift,1880,Native American,,,,
+58,Vassar,fa-university,#951829,white,Museum,2010.13.31,2010,BEADED PANEL,Textile,Gift,1880,Iroquois,,Yes,42.6697,-73.7485
+59,Vassar,fa-university,#951829,white,Museum,2010.13.40,2010,THREE-SIDED PINCH PURSE WITH FLOWER DESIGN,Textile,Gift,1890,Iroquois,,Yes,42.6697,-73.7485
+60,Vassar,fa-university,#951829,white,Museum,2008.25.24,2008,BEADED POUCH,Textile,Gift,1880,"Haudenosaunee, Iroquois",,Yes,42.6697,-73.7485
+61,Vassar,fa-university,#951829,white,Museum,2009.4,2009,SOUVENIR PILLOW (FROM NIAGARA FALLS,Textile,Gift,1850,Iroquois,,Yes,42.6697,-73.7485
+62,Vassar,fa-university,#951829,white,Museum,2009.26.40,2009,CAPE,Textile,Gift,1890,"Haudenosaunee, Iroquois",,Yes,42.6697,-73.7485
+63,Vassar,fa-university,#951829,white,Museum,2010.13.24,2010,LIDDED BASKET,Decorative Art,Gift,,Passamaquoddy,,Yes,45.2405,-67.5905
+64,Vassar,fa-university,#951829,white,Museum,2010.13.25,2010,HAT,Decorative Art,Gift,1886,Akimel O’dam,,Yes,32.254,-110.9742
+65,Vassar,fa-university,#951829,white,Museum,1989.18.3,1989,BASKET,Decorative Art,Gift,,Pima,,Yes,36.7783,-119.4179
+66,Vassar,fa-university,#951829,white,Museum,2011.34.32,2011,"""WHIMSY"" PURSE",Textile,Gift,,"Haudenosaunee, Iroquois",,Yes,42.6697,-73.7485
+67,Vassar,fa-university,#951829,white,Museum,2011.34.28,2011,STRIPED FLORAL BEADED PURSE,Textile,Gift,1880,Iroquois,,Yes,42.6697,-73.7485
+68,Vassar,fa-university,#951829,white,Museum,2011.34.30,2011,PUZZLE POUCH,Textile,Gift,1850,Seneca Iroquois,,Yes,42.6697,-73.7485
+69,Vassar,fa-university,#951829,white,Museum,2007.31.4,2007,"BOOT WHIMSY, “FROM NIAGARA FALLS” WITH BIRD AND FLOWER DESIGN",Decorative Art,Gift,1890,"Haudenosaunee, Iroquois",,Yes,42.6697,-73.7485
+70,Vassar,fa-university,#951829,white,Museum,2011.34.29,2011,BEADED BELT,Textile,Gift,,Iroquois,,Yes,42.6697,-73.7485
+71,Vassar,fa-university,#951829,white,Museum,2007.31.6,2007,BEADED POUCH,Textile,Gift,1880,"Haudenosaunee, Iroquois",,Yes,42.6697,-73.7485
+72,Vassar,fa-university,#951829,white,Museum,1987.58,1987,PLATTER,Decorative Art,Gift,,San Ildefonso Pueblo,,Yes,35.892,-106.1184
+73,Williams,fa-university,#3e006f,white,Museum,93.1.18.B,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+74,Williams,fa-university,#3e006f,white,Museum,93.1.18.C,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+75,Williams,fa-university,#3e006f,white,Museum,93.1.18.D,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+76,Williams,fa-university,#3e006f,white,Museum,93.1.18.E,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+77,Williams,fa-university,#3e006f,white,Museum,93.1.18.F,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+78,Williams,fa-university,#3e006f,white,Museum,93.1.123.A,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+79,Williams,fa-university,#3e006f,white,Museum,93.1.123.B,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+80,Williams,fa-university,#3e006f,white,Museum,93.1.85,1993,Wedding basket,basket,Found and Catalogued,,Navajo,"northeastern Arizona, northwestern New mexico, southeastern Utah",Yes,36.075321,-109.19693
+81,Williams,fa-university,#3e006f,white,Museum,93.1.18.A,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+82,Williams,fa-university,#3e006f,white,Museum,93.1.122,1993,Arrowhead,tool,Found and Catalogued,,Native American,,,,
+83,Williams,fa-university,#3e006f,white,Museum,RC.22.24,1994,Pouch or holder,leatherwork,Found and Catalogued,,Native American,,,,
+84,Williams,fa-university,#3e006f,white,Museum,RC.22.26,1994,Pouch or bag,leatherwork,Found and Catalogued,,Native American,,,,
+85,Williams,fa-university,#3e006f,white,Museum,RC.22.35,1994,Pouch or belt piece (?),leatherwork,Found and Catalogued,,Native American,,,,
+86,Williams,fa-university,#3e006f,white,Museum,RC.22.46,1994,Fish hook,tool,Found and Catalogued,,Native American?,,,,
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,South Dakota,,43.9695,-99.9018
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Wyoming,,43.076,-107.2903
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Lightning Creek,,43.7886,-106.9561
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Black Hills,,44.0805,-103.231
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Lakota,,48.0428,-98.3362
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Arapaho,,39.64977,-104.33924
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Apsáalooke,,46.96526,-109.533691
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Bear Creek,,44.9432,-107.2648
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Spring Draw,,45.048,-101.599
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Tatman Mountain,,44.5905,-107.125
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Owl Creek Mountains,,43.4,-108.2
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Elk Creek,,43.8919,-102.18
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Colorado,,39.5501,-105.7821
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Weld County,,40.3921,-104.7155
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Arapaho,,39.64977,-104.33924
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Cheyenne,,45.5333,-106.6339
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Nebraska,,41.4925,-99.9018
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Sioux County,,42.4877,-103.7548
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Arapaho,,39.64977,-104.33924
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Cheyenne,,45.5333,-106.6339
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Goshen County,,42.0847,-104.3535
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Muddy Creek,,42.0919,-107.6698
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Niobrara County,,43.033,-104.4759
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Lakota,,48.0428,-98.3362
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Arapaho,,39.64977,-104.33924
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Weld County,,40.57442466,-104.4057372
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Pawnee Buttes,,40.812,-104.019
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Argentina,,-38.4161,-63.6167
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Puerto Visser,,-45.8962,-67.4675
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Chubut Province,,-43.2934,-65.1115
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Florida,,27.6648,-81.5158
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Utah,,39.321,-111.0937
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,New Mexico,,34.9727,-105.0324
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Miccosukee,,26.10597268,-80.82158009
+87,Amherst,fa-university,#4A2A72,white,Archive,,,Frederic Brewster Loomis (AC 1896) Papers,,,1896,,Arizona,,34.0489,-111.0937
+88,Amherst,fa-university,#4A2A72,white,Archive,,,Heman Humphrey Sermons,,,1813,,Pittsfield,,42.4501,-73.2454
+88,Amherst,fa-university,#4A2A72,white,Archive,,,Heman Humphrey Sermons,,,1813,,Fairfield,,41.1408,-73.2613
+89,Amherst,fa-university,#4A2A72,white,Archive,,,Catalogue of the Gilbert Museum of Indian Relics,,,1903,,New England,,42.4072,-71.3824
+89,Amherst,fa-university,#4A2A72,white,Archive,,,Catalogue of the Gilbert Museum of Indian Relics,,,1903,,Ware,,42.2598,-72.2398
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Buffalo,,42.8864,-78.8784
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Indian Village,,41.7142,-86.1766
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Seneca,,42.6697,-73.7485
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Oneida,,43.0926,-75.6513
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Onondagua,,43.04310461,-76.14982345
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Buffalo Creek,,42.8613,-78.8306
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Philadelphia,,39.9526,-75.1652
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Great Britain,,55.3781,-3.436
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Washington City,,38.9072,-77.0369
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Allegany,,42.0886,-78.4917
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Tuscarora Village,,43.1394,-78.9942
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,St. Regis,,44.9787,-74.6882
+90,Vassar,fa-university,#951829,white,Archive,,,Jasper Parrish Paper Transcription,,,,,Canada,,56.1304,-106.3468
+91,Williams,fa-university,#3e006f,white,Archive,,,Petition of Joseph Bogy,,,1835,,"Choctaw Indians, Missouri",,35.497562,-97.268921
+92,Williams,fa-university,#3e006f,white,Archive,,,Treaty with the Creek Indians,,,1828,,"Creek Nation, Georgia",,34.246197,-83.880066
+93,Williams,fa-university,#3e006f,white,Archive,,,Trust funds-- Chickasaw Indians,,,1843,,Chickasaw Indians,,30.763714,-88.074539
+94,Williams,fa-university,#3e006f,white,Archive,,,Location of Florida Indians : letter from the Secretary of War,,,1826,,"Seminole Indians, Florida",,27.83975,-82.79121
+95,Williams,fa-university,#3e006f,white,Archive,,,"Message from the President of the United States, transmitting a report of the Secretary of War",,,1821,,Seneca Indians,,42.6411,-78.6874
+96,Williams,fa-university,#3e006f,white,Archive,,,"Report of the Secretary of the Interior, communicating, in compliance with a resolution of the Senate",,,1860,,"Nome Lackee Indian Reservation, California",,39.7457,-122.7439
+97,Williams,fa-university,#3e006f,white,Archive,,,"Memorial of a delegation of the Cherokee Nation remonstrating against the instrument of writing (treaty) of December, 1835.",,,1838,,Cherokee Nation,,35.8789,-94.8106
+98,Williams,fa-university,#3e006f,white,Archive,,,Indian tribes west of Missouri and Iow,,,1854,,Omahas nation,,41.25861,-95.93779
+98,Williams,fa-university,#3e006f,white,Archive,,,Indian tribes west of Missouri and Iow,,,1854,,Sacs nation,,41.487076,-90.589691
+98,Williams,fa-university,#3e006f,white,Archive,,,Indian tribes west of Missouri and Iow,,,1854,,Otos nation,,36.4601,-97.1796
+98,Williams,fa-university,#3e006f,white,Archive,,,Indian tribes west of Missouri and Iow,,,1854,,Pawnees Nation,,36.3352,-96.8008
