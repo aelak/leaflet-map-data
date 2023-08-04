@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DH2023Team1Map</title>
+    <meta charset="utf-8" />
+    <link 
+        rel="stylesheet" 
+        href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <style>
+        #mapid {
+            height: 600px;
+            width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div id="mapid"></div>
+    <script>
+        var map = L.map('mapid').setView([36.3352, -96.8008], 5);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        Papa.parse('https://raw.githubusercontent.com/aelak/leaflet-map-data/main/DHCleanedNA_forTableau%20-%20Sheet1.csv', {
+            download: true,
+            header: true,
+            complete: function(results) {
+                console.log(results.data);
+
+                results.data.forEach(row => {
+                    var lat = Number(row['Latitudes']);  
+                    var lng = Number(row['Longitudes']);   
+                    var label = row['Location'];  
+
+                    console.log(lat, lng, label); 
+
+                    L.marker([lat, lng]).addTo(map).bindPopup(label);
+                });
+            }
+        });
+    </script>
+</body>
+</html>
